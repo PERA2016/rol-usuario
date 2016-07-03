@@ -1,2 +1,2 @@
-# SIGOES-Usuario-Traducido
-Version del Plugin SIGOES-Usuario con observaciones de la defensa.
+# BICOCI rol-usuario
+Version del Plugin rol-Usuario.
