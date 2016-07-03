@@ -1,12 +1,12 @@
 <?php
-
-/**
-*  Plugin Name: SIGOES-Admin-Usuarios
-*  Description: Plugin para la implementacion de modulo de administracion de roles y usuarios
-*  Version: 3.0
-*  Author: Equipo de desarrollo SIGOES
-*  Author URI: http://modulos.egob.sv
-*  Text Domain: SIGOES-Comunicados
+/*
+Plugin Name: BICOCI-rol-usuario
+Plugin URI: http://bicoci.site88.net
+Description: Módulo de rol-usuario de bicoci
+Version: 1.0
+Author: Alumno PERA
+Author URI: http://bicoci.site88.net
+Text Domain: bicoci
 */
 
 require(dirname(__FILE__) . '/config.php');
